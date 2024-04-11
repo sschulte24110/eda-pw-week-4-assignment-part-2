@@ -1,0 +1,20 @@
+header {
+  background-color: lightskyblue;
+  width: 616px;
+}
+
+h2, h3 {
+  background-color: #000080;
+  color: lightgrey;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+img {
+  width: 600px;
+}
+
+.info {
+  border: 8px solid lightskyblue;
+  width: 600px;
+}
