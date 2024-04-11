@@ -1,13 +1,15 @@
 header {
   background-color: lightskyblue;
   width: 616px;
+  text-align: center;
 }
 
 h2, h3 {
   background-color: #000080;
   color: lightgrey;
-  padding-top: 0px;
-  padding-bottom: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
 }
 
 img {
