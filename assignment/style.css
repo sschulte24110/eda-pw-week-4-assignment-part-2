@@ -4,9 +4,17 @@ header {
   text-align: center;
 }
 
-h2, h3 {
+h2 {
   background-color: #000080;
   color: lightgrey;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+h3 {
+  background-color: lightgrey;
+  color: #000080;
   margin-top: 0px;
   margin-bottom: 0px;
   text-align: center;
